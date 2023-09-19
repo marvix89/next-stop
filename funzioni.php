@@ -5,10 +5,10 @@ class MysqlClass {
     // variabili per la connessione al database
 
 	//$ip = $_SERVER["REMOTE_ADDR"];
-       private $nomehost = "46.252.157.14";
-    private $nomeuser = "yhtniqqq_martino";
-    private $password = "martino281089.";
-    private $nomedb = "yhtniqqq_balbi"; 
+       private $nomehost = "...";
+    private $nomeuser = "...";
+    private $password = "...";
+    private $nomedb = "..."; 
 
     // controllo sulle connessioni attive
     private $attiva = false;
